@@ -139,7 +139,7 @@ Each project is designed to demonstrate different aspects of JavaScript 👇
           </a>
           <a href="https://skillicons.dev" rel="nofollow">
             <img
-              src="https://skillicons.dev/icons?i=react,js,html,css"
+              src="https://skillicons.dev/icons?i=js,html,css"
               alt="James skills"
               style="max-width: 100%"
             />
