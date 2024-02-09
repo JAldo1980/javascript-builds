@@ -161,10 +161,10 @@ Each project is designed to demonstrate different aspects of JavaScript 👇
         </p>
       </td>
       <td width="50%" align="center">
-        <a href="#" rel="nofollow">
+       <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="<a href="https://imgbox.com/ShWTYEnl" target="_blank"><img src="https://images2.imgbox.com/c4/39/ShWTYEnl_o.png" alt="image host"/></a>"
+            src="https://images2.imgbox.com/c4/39/ShWTYEnl_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
