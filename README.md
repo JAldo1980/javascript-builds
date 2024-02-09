@@ -62,7 +62,7 @@ Each project is designed to demonstrate different aspects of JavaScript 👇
         </h3>
         <p dir="auto">
           <a
-            href="https://glow-small-business.netlify.app/"
+            href="https://watson-your-socials.netlify.app/"
             rel="nofollow"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Live</a
@@ -79,7 +79,7 @@ Each project is designed to demonstrate different aspects of JavaScript 👇
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://images2.imgbox.com/94/ff/CaXJa7cx_o.png"
+            src="https://images2.imgbox.com/ab/fa/AH5p8ptx_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
