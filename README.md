@@ -115,7 +115,7 @@ Each project is designed to demonstrate different aspects of JavaScript 👇
               ></path>
             </svg>
           </a>
-          My Frontend Developer Portfolio
+          Interactive Invoice Builder for SMEs
         </h2>
         <h3 tabindex="-1" dir="auto">
           <a
@@ -147,14 +147,14 @@ Each project is designed to demonstrate different aspects of JavaScript 👇
         </h3>
         <p dir="auto">
           <a
-            href="https://james-alderman-developer-portfolio.netlify.app/"
+            href="https://invoice-it-up.netlify.app/"
             rel="nofollow"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Live</a
           >
           |
           <a
-            href="https://github.com/JAldo1980/react-built-portfolio"
+            href="https://github.com/JAldo1980/invoice-builder"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Repo</a
           >
@@ -164,7 +164,7 @@ Each project is designed to demonstrate different aspects of JavaScript 👇
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://images2.imgbox.com/57/2f/NbvXiKAD_o.png"
+            src="<a href="https://imgbox.com/ShWTYEnl" target="_blank"><img src="https://images2.imgbox.com/c4/39/ShWTYEnl_o.png" alt="image host"/></a>"
             style="visibility: visible; max-width: 100%"
           />
         </a>
