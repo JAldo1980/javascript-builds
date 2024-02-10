@@ -200,7 +200,7 @@ Each project is designed to demonstrate different aspects of JavaScript 👇
               ></path>
             </svg>
           </a>
-          Professional Squeeze one-Pager
+          Board Game Team Name Generator
         </h2>
         <h3 tabindex="-1" dir="auto">
           <a
