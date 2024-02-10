@@ -224,7 +224,7 @@ Each project is designed to demonstrate different aspects of JavaScript 👇
           </a>
           <a href="https://skillicons.dev" rel="nofollow">
             <img
-              src="https://skillicons.dev/icons?i=react,js,html,css"
+              src="https://skillicons.dev/icons?i=js,html,css"
               alt="James skills"
               style="max-width: 100%"
             />
@@ -232,14 +232,14 @@ Each project is designed to demonstrate different aspects of JavaScript 👇
         </h3>
         <p dir="auto">
           <a
-            href="https://adrian-foster.netlify.app/"
+            href="https://kill-team-name-generator.netlify.app/"
             rel="nofollow"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Live</a
           >
           |
           <a
-            href="https://github.com/JAldo1980/react-adrian-foster"
+            href="https://github.com/JAldo1980/name-generator-tool"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Repo</a
           >
@@ -249,7 +249,7 @@ Each project is designed to demonstrate different aspects of JavaScript 👇
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://images2.imgbox.com/5b/87/Dk0YkB5s_o.png"
+            src="https://images2.imgbox.com/73/f5/33QwvItu_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
